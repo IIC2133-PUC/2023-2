@@ -117,11 +117,12 @@ double nota_final() {
   double T0, T1, T2, T3;
   /* La nota de cada interrogación*/
   double I1, I2, I3;
+  double POND_I1, POND_I2, POND_I3;
 
   /* Promedio de tareas */
   double NT = min(0.20 * T0 + 0.30 * T1 + 0.25 * T2 + 0.25 * T3, 7.0);
   /* Promedio de interrogaciones */
-  double NI = min(0.25 * I1 + 0.45 * I2 + 0.3 * I3, 7.0);
+  double NI = min(POND_I1 * I1 + POND_I2 * I2 + POND_I2 * I3, 7.0);
 
   /* Nota final */
   double NF = (NT + NI) / 2;
