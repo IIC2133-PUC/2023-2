@@ -49,8 +49,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ## Material Tareas
 
 - T0
-  - [Enunciado](https://github.com/IIC2133-PUC/2023-1/blob/master/Tareas/T0_2023_1_Enunciado.pdf)
-  - [Generador de repo](https://classroom.github.com/a/ff8qZJ5_)
+  - [Enunciado](https://github.com/IIC2133-PUC/2023-2/blob/master/Tareas/T0_2023_2_Enunciado.pdf)
+  - [Generador de repo](https://classroom.github.com/a/7feYdEVB)
 - T1
 - T2
 - T3
