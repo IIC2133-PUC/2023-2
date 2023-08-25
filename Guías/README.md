@@ -8,4 +8,4 @@ Además hay 4 guías extra que podrás utilizar:
 2) [Guía de Punteros](2.%20Guía%20de%20Punteros.pdf)
 3) [Guía de módulos STDLIB y STDIO de C](3.%20Guía%20de%20módulos%20STDLIB%20y%20STDIO%20de%20C.pdf)
 4) [Guía para debuggear en C](4.%20Gu%C3%ADa%20para%20debuggear%20en%20C.md)
-5) [Guía de resolución de problemas en tareas](5.%20AYUDAA%20(Guía%20de%20resolución%20de%20problemas%20en%20Tareas).md)
+5) [Guía de resolución de problemas en tareas](5.%20AYUDAA%20(Guía%20de%20resolución%20de%20problemas%20en%20tareas).md)
