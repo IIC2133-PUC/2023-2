@@ -67,6 +67,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 2 | Insertion Sort | 16 de agosto | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class02.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class02.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class02.pdf) |
 | 3 | Merge Sort | 23 de agosto | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class03.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class03.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class03.pdf) |
 | 4 | Quick Sort | 28 de agosto | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class04.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class04.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class04.pdf) |
+| 5 | Quick Sort y propiedades | 30 de agosto | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class05.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class05.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class05.pdf) |
 
   ## Ayudantías
 
