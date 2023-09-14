@@ -55,7 +55,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Tests](https://drive.google.com/drive/folders/1HL36CbN3I0_gLigOrUZAo6hktMakzSA1?usp=sharing)
   - [Archivo con settings de test](https://github.com/IIC2133-PUC/2023-2/blob/master/Tareas/content/T0/h0_config.json)
 - T1
-  -[Capsula Enunciado](https://youtu.be/lYERo6m2LG4) 
+  - [Capsula Enunciado](https://youtu.be/lYERo6m2LG4) 
 - T2
 - T3
 
