@@ -123,7 +123,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Evaluación | Fecha Publicacion  | Fecha Entrega      |
 | :--------- | :----------------- | :----------------- |
 | Tarea 0    | 16 de Agosto     | 1 de Septiembre    |
-| Tarea 1    | 5 de Septiembre     | 21 de Septiembre     |
+| Tarea 1    | 5 de Septiembre     | 26 de Septiembre     |
 | Tarea 2    | 11 de Octubre     | 24 de Octubre   |
 | Tarea 3    | 9 de Noviembre     | 23 de Noviembre    |
 
@@ -191,7 +191,7 @@ Esto es independiente si algún dia de atraso es feriado o fin de semana.
 ## Política de integridad académica
 
 Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
-### Consideraciones Previas
+### Consideraciones Previas&
 
 - **Uso de IAs**: El uso de herramientas que utilicen modelos de inteligencias artificiales no esta sancionado, pero no esta recomendado más alla de sintaxis de código o detalles pequeños. Normalmente el uso de estas herramientas genera código que no resuelve correctamente la tarea y requiere tiempo adicional de depuración.
   - Además, en caso de utilizar **se debe citar**. En caso de no citar el uso de las herramientas podria detectarse similitud entre tareas de distintos alumnos y se considerara un caso de copia.
