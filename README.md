@@ -24,7 +24,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
     - [Tareas](#tareas)
   - [Política de Atrasos](#política-de-atrasos)
   - [Política de integridad académica](#política-de-integridad-académica)
-    - [Consideraciones Previas](#consideraciones-previas)
+    - [Consideraciones Previas\&](#consideraciones-previas)
     - [Declaración de integridad académica](#declaración-de-integridad-académica)
 
 ## Material Complementario
@@ -74,6 +74,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 8 | Árboles 2-3 | 11 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class08.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class08.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class08.pdf) |
 | 9 | Árboles rojo-negro | 13 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class09.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class09.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class09.pdf) |
 | 10 | Tablas de hash | 20 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class10.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class10.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class10.pdf) |
+| 11 | Orden lineal | 25 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class11.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class11.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class11.pdf) |
 
 
   ## Ayudantías
