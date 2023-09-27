@@ -75,6 +75,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 9 | Árboles rojo-negro | 13 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class09.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class09.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class09.pdf) |
 | 10 | Tablas de hash | 20 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class10.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class10.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class10.pdf) |
 | 11 | Orden lineal | 25 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class11.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class11.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class11.pdf) |
+| 12 | Repaso I1 | 27 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class12.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class12.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class12.pdf) |
 
 
   ## Ayudantías
