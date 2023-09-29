@@ -99,10 +99,33 @@ El programa detallado del curso se encuentra disponible [aquí](https://github.c
 
 ### Ayudantes
 
-| Nombre    | Email    | Github |
-| :----------------------- | :---------------------- | :------------------------------------------------------- |
-| Carlos Paredes (jefe) | cparedesr@uc.cl | [@CarloGauss33](https://github.com/CarloGauss33) |
-| Antonia Caceres (bienestar) | antoniacaceres@uc.cl | [@antoniacaceres](https://github.com/antoniacaceres) |
+| Nombre                      | Email                    | Github |
+| :-------------------------- | :----------------------- | :--------------------------------------------------------- |
+| Carlos Paredes (jefe)       | cparedesr@uc.cl          | [@CarloGauss33](https://github.com/CarloGauss33)           |
+| Antonia Caceres (bienestar) | antoniacaceres@uc.cl     | [@antoniacaceres](https://github.com/antoniacaceres)       |
+| Francisca de la Barra       | fddelabarra@uc.cl        | [@fddelabarra](https://github.com/fddelabarra)             |
+| Benjamín Vicente            | benjavicente@uc.cl       | [@benjavicente](https://github.com/benjavicente)           |
+| Victor Hernández            | victorllagos@uc.cl       | [@victorllagos](https://github.com/victorllagos)           |
+| Martín Orrego               | martinorregosilva@uc.cl  | [@OrregoSilva](https://github.com/OrregoSilva)             |
+| Tamara Han                  | than@uc.cl               | [@tamyhan](https://github.com/tamyhan)                     |
+| María Bloomfield            | mbloomfield@uc.cl        | [@MariaBloomfield](https://github.com/MariaBloomfield)     |
+| Martín Illanes              | martin.illanes@uc.cl     | [@illanes00](https://github.com/illanes00)                 |
+| Dafne Arriagada             | dafne.arriagada@uc.cl    | [@Dafnemami](https://github.com/Dafnemami)                 |
+| Juan Fernández              | jfernaandez@uc.cl        | [@juanfdezg](https://github.com/juanfdezg)                 |
+| Joaquín Viñuela             | joaquin.vinuela@uc.cl    | [@Vinuelax3](https://github.com/Vinuelax3)                 |
+| Sebastián Terrazas          | sebaterrazas@uc.cl       | [@sebaterrazas](https://github.com/sebaterrazas)           |
+| Catalina Alamos             | catalina.alamos@uc.cl    | [@CataAlamos](https://github.com/CataAlamos)               |
+| Andrés Moraga               | andresmoraga0@uc.cl      | [@andresmoraga0](https://github.com/andresmoraga0)         |
+| Anita Marti                 | asmarti@uc.cl            | [@4n1t4](https://github.com/4n1t4)                         |
+| Paula Grune                 | Paula.grune@uc.cl        | [@paulagrune](https://github.com/paulagrune)               |
+| Gustavo Salinas             | gsalinas1506@uc.cl       | [@gsalinas1506](https://github.com/gsalinas1506)           |
+| Sofia Hossiason             | sofia.hosiasson@uc.cl    | [@Sofiasson](https://github.com/Sofiasson)                 |
+| Alonso Tamayo               | aetamayo@uc.cl           | [@aetamayo](https://github.com/aetamayo)                   |
+| Estefania Cofré             | estefania.pakarati@uc.cl | [@Pakarati](https://github.com/Pakarati)                   |
+| Nicolás Santa María         | n.santamaria@uc.cl       | [@nsantama](https://github.com/nsantama)                   |
+| Blanca Romero               | blanca.romero@uc.cl      | [@blankibeibi](https://github.com/blankibeibi)             |
+| Isabella Cherubini          | isabella.cherubini@uc.cl | [@isabellacherubini](https://github.com/isabellacherubini) |
+| Felipe Jara                 | felipe.jara.c@uc.cl      | [@FelipeUC2020](https://github.com/FelipeUC2020)           |
 
 
 ## Evaluación
