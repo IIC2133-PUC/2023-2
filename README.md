@@ -77,6 +77,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 11 | Orden lineal | 25 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class11.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class11.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class11.pdf) | |
 | 12 | Repaso I1 | 27 de septiembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class12.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class12.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class12.pdf) | |
 | 13 | Backtracking | 11 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class13.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class13.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class13.pdf) | [8 Reinas](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/complementos/deep%20blue%20kasparov%20con%20animacion%208Q.pptx) |
+| 14 | Backtracking II | 16 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class14.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class14.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class14.pdf) |  |
 
 
   ## Ayudantías
