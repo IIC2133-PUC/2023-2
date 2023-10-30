@@ -81,6 +81,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 15 | Algoritmos codiciosos | 18 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class15.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class15.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class15.pdf) |  |
 | 16 | Programación dinámica | 23 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class16.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class16.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class16.pdf) |  |
 | 17 | Grafos | 25 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class17.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class17.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class17.pdf) |  |
+| 18 | DFS y aplicaciones | 30 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class18.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class18.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class18.pdf) |  |
 
 
   ## Ayudantías
