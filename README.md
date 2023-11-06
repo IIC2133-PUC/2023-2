@@ -82,7 +82,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 16 | Programación dinámica | 23 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class16.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class16.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class16.pdf) |  |
 | 17 | Grafos | 25 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class17.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class17.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class17.pdf) |  |
 | 18 | DFS y aplicaciones | 30 de octubre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class18.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class18.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class18.pdf) |  |
-| 19 | Repaso I2 | 6 de noviembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class19.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class19.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class19.pdf) |  |
+| 19 | Repaso I2 | 6 de noviembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class19.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class19.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class19.pdf) | [Ej Backtrack](https://drive.google.com/file/d/13-1ckJ7N-vHBWXyxdeGQ3Wg4-nePAgxM/view?usp=sharing) |
 
 
   ## Ayudantías
