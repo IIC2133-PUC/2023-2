@@ -85,6 +85,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 19 | Repaso I2 | 6 de noviembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class19.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class19.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class19.pdf) | [Ej Backtrack](https://drive.google.com/file/d/13-1ckJ7N-vHBWXyxdeGQ3Wg4-nePAgxM/view?usp=sharing) |
 | 20 | MST y Kruskal | 13 de noviembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class20.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class20.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class20.pdf) | |
 | 21 | Heaps y heapsort | 15 de noviembre | :pleading_face: | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class21.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class21.pdf) |  |
+| 22 | MST y Prim | 20 de noviembre | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion1/class22.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion2/class22.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-2/blob/master/Clases/seccion3/class22.pdf) | |
 
 
   ## Ayudantías
